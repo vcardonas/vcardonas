@@ -4,7 +4,7 @@
 A psychologist turned data scientist who is passionate about using data visualization and 
 machine learning to understand the complex world and people in a simpler way.
 
-My main programming languages are: Python and R.
+My main programming languages are: Python, R and SQL.
 
 ## Find me around the web 🌎:
 - 💼 [Linkedin](https://www.linkedin.com/in/vcardonas/)
