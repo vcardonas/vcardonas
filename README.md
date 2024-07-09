@@ -7,5 +7,6 @@ machine learning to understand the complex world and people in a simpler way.
 My main programming languages are: Python, R and SQL.
 
 ## Find me around the web 🌎:
-- 💼 [Linkedin](https://www.linkedin.com/in/vcardonas/)
 - 📫 e-mail: vcardonas@unal.edu.co
+- 💼 [Linkedin](https://www.linkedin.com/in/vcardonas/)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
