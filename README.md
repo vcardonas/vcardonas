@@ -11,21 +11,22 @@ My main programming languages are: Python, R and SQL.
 - 💼 [Linkedin](https://www.linkedin.com/in/vcardonas/)
 
 <div 
-  class="badge-base LI-profile-badge"
-  data-locale="es_ES"
-  data-size="medium"
-  data-theme="dark"
-  data-type="HORIZONTAL"
+  class='LI-profile-badge'
+  data-version='v1'
+  data-size='medium'
+  data-locale='en_US'
+  data-type='horizontal'
+  data-theme='dark'
   data-vanity="vcardonas"
-  data-version="v1"
 >
   <a
-    class="badge-base__link LI-simple-link"
+    class='LI-simple-link'
     href="https://co.linkedin.com/in/vcardonas?trk=profile-badge"
     >
     Valentina Cardona Saldaña
   </a>
 </div> 
+ 
  <script
   type = 'text/javascript'
   src = 'https://platform.linkedin.com/badges/js/profile.js'
