@@ -4,7 +4,7 @@
 
 <p><em>
   Psychometrician at <a href="https://www.esap.edu.co/">ESAP</a>
-<!-- </br>Data Analyst at <a href="https://www.icfes.gov.co/">Icfes</a> -->
+  </br>Data Analyst at <a href="https://www.icfes.gov.co/">Icfes</a>
 </em></p>
 
 <p align="left">
