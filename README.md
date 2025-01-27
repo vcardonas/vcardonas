@@ -2,11 +2,12 @@
 
 ### Hey 👋, I'm Valen.
 
+<!-- DESEMPLEO:'v
 <p><em>
   Psychometrician at <a href="https://www.esap.edu.co/">ESAP</a>
   </br>Data Analyst at <a href="https://www.icfes.gov.co/">Icfes</a>
 </em></p>
-
+-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vcardonas&style=flat&color=313131&label=views&abbreviated=true"/>
   <img src="https://img.shields.io/github/followers/vcardonas?style=social"/>
